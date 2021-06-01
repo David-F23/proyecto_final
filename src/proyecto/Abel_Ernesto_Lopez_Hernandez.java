@@ -10,5 +10,5 @@ package proyecto;
  * @author Abel
  */
 public class Abel_Ernesto_Lopez_Hernandez {
-    
+    String name; 
 }
